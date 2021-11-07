@@ -5,3 +5,5 @@ Desi Yunitasari
 
 Kami sedang belajar bagaimana menggunakan git dan github
 Terimakasih :)
+
+GitHub memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat yang berbeda. 
