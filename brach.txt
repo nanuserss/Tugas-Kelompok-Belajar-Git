@@ -1,0 +1,3 @@
+Branch merupakan salinan dari repositori. Branch dapat digunakan Ketika hendak melakukan suatu pengembangan atau development secara terpisah.
+Pekerjaan atau task yang dikerjakan di branch tidak akan memengaruhi repositori pusat atau branch lainnya. 
+Jika pengembangannya sudah selesai, branch dapat digabungkan ke branch lain dan juga repositori pusat dengan menggunakan pull request.
