@@ -1,0 +1,3 @@
+Forking repository artinya Anda membuat proyek baru berdasarkan repositori yang sudah ada. 
+Dalam kalimat yang lebih sederhana, forking repo berarti Anda menyalin repositori yang sudah ada, kemudian membuat beberapa perubahan yang Anda perlukan, 
+lalu menyimpan versi terbarunya sebagai repositori baru, dan menjadikannya proyek Anda sendiri.
